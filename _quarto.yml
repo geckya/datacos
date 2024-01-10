@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DataCOS"
+  search: false
+  page-footer:
+    left: <br><br>&copy; 2024 DataCOS LLC
+format:
+  html:
+    theme: slate
+    css: styles.css
+

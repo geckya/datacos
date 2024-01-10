@@ -1,0 +1,14 @@
+---
+format: html
+---
+
+<style>
+  body {
+  background-image: url("https://datacos.co/sofrontrange.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+  
+</style>
+
+
