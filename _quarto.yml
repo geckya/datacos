@@ -6,7 +6,7 @@ website:
   title: "DataCOS"
   search: false
   page-footer:
-    left: &copy; 2024 DataCOS LLC
+    left: "&copy; 2024 DataCOS LLC"
 format:
   html:
     theme: slate
